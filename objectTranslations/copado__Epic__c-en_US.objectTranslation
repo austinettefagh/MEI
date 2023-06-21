@@ -70,4 +70,11 @@
         <label><!-- Completion % --></label>
         <name>copadometrics__Completion__c</name>
     </fields>
+    <layouts>
+        <layout>Epic Layout</layout>
+        <sections>
+            <label><!-- Owners --></label>
+            <section>Owners</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>

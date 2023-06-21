@@ -67,6 +67,13 @@
         <label><!-- Pipeline definition --></label>
         <name>copadoconnect__Pipeline_definition__c</name>
     </fields>
+    <layouts>
+        <layout>Release Layout</layout>
+        <sections>
+            <label>アドバンス</label>
+            <section>Advanced</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Release Name --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- please dont include spaces in version field --></errorMessage>
