@@ -98,6 +98,13 @@
         <label><!-- Active --></label>
         <name>copadometrics__Active__c</name>
     </fields>
+    <layouts>
+        <layout>Sprint Layout</layout>
+        <sections>
+            <label><!-- Sprint Summary --></label>
+            <section>Sprint Summary</section>
+        </sections>
+    </layouts>
     <validationRules>
         <errorMessage><!-- You must introduce an End Date greater than the Start Date. --></errorMessage>
         <name>copado__EndDate_Should_be_Greater_than_StartDate</name>
