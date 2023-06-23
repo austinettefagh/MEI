@@ -19448,6 +19448,9 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>MyObject1__c-MyObject1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Opportunity-Formato de oportunidades</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -19993,6 +19996,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Monitoring_Metadata_Change_Alert__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>MyObject1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
